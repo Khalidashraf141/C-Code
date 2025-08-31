@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-    string name = "Khalid";
-    cout << name.length()<<"\n";
-    cout << name.at(3);
+    cout << (75/60);
+    return 0;
 }
